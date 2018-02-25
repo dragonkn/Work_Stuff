@@ -1,0 +1,40 @@
+﻿[
+	"ADPD_Text",
+	53,
+	"Flow", 
+	1, 
+	{
+	},
+	[
+		[
+			80, 4,
+			{
+				"00010001-BackgroundColor": [ 248, "#FF93C1CC" ],
+				"00030001-DisplayName": [ 18, "Articy.Models.Story.StoryFolder._Self_.Caption" ],
+				"00040002-ExternalId": [ 18, "" ],
+				"00040003-Position": [ 247, 0, 0 ],
+				"00040004-ZIndex": [ 14, 0 ],
+				"00040005-Size": [ 246, 256, 196 ],
+				"00090001-ShortId": [ 10, 2232966208 ],
+				"000A0001-SystemName": [ 18, "ARTICY_storyFolder" ],
+				"000C0001-Parent": [ 254, "0100000000000001" ],
+				"000D0001-Children": [ 251, [
+
+				] ],
+				"00300001-InputPins": [ 251, [
+
+				] ],
+				"00300002-OutputPins": [ 251, [
+
+				] ],
+				"00310001-ChildrenInfos": [ 250, [
+
+				] ],
+				"00320001-LocalizedStrings": [ 250, [
+
+				] ],
+				"00390001-Id": [ 254, "0300000043CE43F7" ]
+			}
+		]
+	]
+]
