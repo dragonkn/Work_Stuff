@@ -1,0 +1,31 @@
+﻿[
+	"ADPD_Text",
+	53,
+	"Journeys", 
+	1, 
+	{
+	},
+	[
+		[
+			68, 2,
+			{
+				"00010001-BackgroundColor": [ 248, "#FF93C1CC" ],
+				"00030001-DisplayName": [ 18, "Articy.Models.Journeys.JourneysFolder._Self_.Caption" ],
+				"00040002-ExternalId": [ 18, "" ],
+				"00040003-Position": [ 247, 140, 140 ],
+				"00040004-ZIndex": [ 14, 7 ],
+				"00040005-Size": [ 246, 256, 196 ],
+				"00090001-ShortId": [ 10, 4083049075 ],
+				"000A0001-SystemName": [ 18, "ARTICY_journeysFolder" ],
+				"000C0001-Parent": [ 254, "0100000000000001" ],
+				"000D0001-Children": [ 251, [
+
+				] ],
+				"00320001-LocalizedStrings": [ 250, [
+
+				] ],
+				"00390001-Id": [ 254, "03000000236F7272" ]
+			}
+		]
+	]
+]

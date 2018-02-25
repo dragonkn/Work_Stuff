@@ -1,0 +1,31 @@
+﻿[
+	"ADPD_Text",
+	53,
+	"Global Variables", 
+	1, 
+	{
+	},
+	[
+		[
+			153, 2,
+			{
+				"00010001-BackgroundColor": [ 248, "#FF93C1CC" ],
+				"00030001-DisplayName": [ 18, "Articy.Models.Scripting.GlobalVariablesFolder._Self_.Caption" ],
+				"00040002-ExternalId": [ 18, "" ],
+				"00040003-Position": [ 247, 100, 100 ],
+				"00040004-ZIndex": [ 14, 5 ],
+				"00040005-Size": [ 246, 256, 196 ],
+				"00090001-ShortId": [ 10, 2735684473 ],
+				"000A0001-SystemName": [ 18, "ARTICY_globalVariablesFolder" ],
+				"000C0001-Parent": [ 254, "0100000000000001" ],
+				"000D0001-Children": [ 251, [
+
+				] ],
+				"00320001-LocalizedStrings": [ 250, [
+
+				] ],
+				"00390001-Id": [ 254, "030000002B4F4C54" ]
+			}
+		]
+	]
+]

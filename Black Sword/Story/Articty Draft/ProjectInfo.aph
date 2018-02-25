@@ -1,0 +1,19 @@
+<ProjectInfo Version="1">
+  <Signature>2054F691402C480A719CDC1C8A7BC3F67D7F184A38A3B4256D3F89CCDA5EAF97</Signature>
+  <Content>
+    <Project Guid="cb101ebc-ef0f-4561-bb1b-12b478fe4e6b">
+      <DisplayName Value="The Devils Black Sword"/>
+      <DetailName Value=""/>
+      <MainProjectGuid Value="8d4d495c-042c-4a0c-86e5-d7258056acf2"/>
+      <IconType Value="0"/>
+      <IdProjectIcon Value="00000000-0000-0000-0000-000000000000"/>
+      <ScmProviderGuid Value="0745c2ee-abe3-451b-934e-7f597f56c0d7"/>
+      <ScmConfiguration Value=""/>
+      <CreationTimeStamp Value="636550408255609356"/>
+      <PartitionHash Value="221049DA05B14107F329E4A1C60C9188F1DD3B9FF1296A5B44DBEE0C1434065B"/>
+      <SaveFileVersion Value="53"/>
+      <ProjectType Value="0"/>
+      <IsOnlineProject Value="False"/>
+    </Project>
+  </Content>
+</ProjectInfo>
